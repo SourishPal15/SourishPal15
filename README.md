@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sourish👋🏼
 
-<!--
-**SourishPal15/SourishPal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first year computer science student currently exploring the world of **coding and technology**.
 
-Here are some ideas to get you started:
+💻 I'm learning programming, building my skills, and experimenting with different areas of tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm always eager to learn new things, improve my skills, take on new challenges, and explore new technologies.
+
+🌱 My goal is to keep growing, build useful things, and eventually contribute to the **tech community** in my own way.
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+> **Learn • Build • Improve • Repeat**
