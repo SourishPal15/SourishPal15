@@ -2,9 +2,12 @@
 
 🎓 I'm a first year computer science student currently exploring the world of **coding and technology**.
 
-💻 I'm learning programming, building my skills, and experimenting with different areas of tech.
+🧠 I'm learning programming, building my skills, and experimenting with different areas of tech.
 
 🚀 I'm always eager to learn new things, improve my skills, take on new challenges, and explore new technologies.
+
+🤖 I use **AI as a learning and development tool** — exploring how to integrate it into my projects, learn more efficiently,
+solve problems, and make better use of modern technology.
 
 🌱 My goal is to keep growing, build useful things, and eventually contribute to the **tech community** in my own way.
 
