@@ -1,4 +1,4 @@
-# Hi, I'm Sourish👋🏼
+# Hi, I'm Sourish 👋🏼
 
 🎓 I'm a first year computer science student currently exploring the world of **coding and technology**.
 
